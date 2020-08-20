@@ -7,7 +7,7 @@
 const MiguelAtencia = {
   pronouns: "he" | "him",
   code: [ HTML, CSS, JavaScript ],
-  tools: [ mongoDB, Express, ReactJs, Redux, Redux-Saga, React-Context, NodeJS ],
+  tools: [ MongoDB, Express, ReactJs, Redux, Redux-Saga, React-Context, NodeJS ],
   learning: [ GatsbyJS, Graphql, Stripe, Strapi ]
 }
 ~~~
