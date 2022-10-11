@@ -6,9 +6,9 @@
 ~~~js
 const MiguelAtencia = {
   pronouns: "he" | "him",
-  code: [ HTML, CSS, JavaScript ],
-  tools: [ MongoDB, Express, ReactJs, Redux, Redux-Saga, React-Context, NodeJS ],
-  learning: [ GatsbyJS, Graphql, Stripe, Strapi ]
+  code: [ HTML, CSS, JavaScript, Typescript ],
+  tools: [ ReactJs, NodeJS ],
+  learning: [ NextJs, AWS, Testing ]
 }
 ~~~
 
