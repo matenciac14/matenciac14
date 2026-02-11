@@ -6,9 +6,9 @@
 ~~~js
 const MiguelAtencia = {
   pronouns: "he" | "him",
-  code: [ HTML, CSS, JavaScript, Typescript ],
-  tools: [ ReactJs, NodeJS ],
-  learning: [ NextJs, AWS, Testing ]
+  code: [ JavaScript, Typescript ],
+  tools: [ ReactJs, NextJs, NodeJS ],
+  learning: [ AWS, AI Engineering ]
 }
 ~~~
 
